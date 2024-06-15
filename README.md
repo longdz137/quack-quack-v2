@@ -1,4 +1,4 @@
-# Quack Quack Game Tool
+# Quack Quack Game Tool V2
 
 <img src="./images/13.jpg" />
 
